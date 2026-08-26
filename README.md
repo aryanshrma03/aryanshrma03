@@ -44,7 +44,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansharma03&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF"/> </p>
 
 ## 🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/aryansharma03/aryansharma03/output/github-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/> </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryanshrma03/aryansharma03/output/github-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
+</p>
 
 ## 📈 Contribution Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryansharma03&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph"/> </p>
