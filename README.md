@@ -29,8 +29,9 @@
 > Ethical Hacking
 > Security Analysis
 > Python Development
-> Networking 
+> Networking
 ```
+
 ## 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github,vscode,mysql,html,css&perline=10"/> </p>
 
@@ -44,16 +45,12 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshrma03&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF"/> </p>
 
 ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aryanshrma03/aryansharma03/output/github-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/aryanshrma03/aryansharma03/output/github-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/> </p>
 
 ## 📈 Contribution Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanshrma03&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph"/> </p>
 
 ## 🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/aryan-sharma03-/"> <img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:as2050971@gmail.com"> <img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanshrma03&label=PROFILE+VIEWS&color=00FF88&style=for-the-badge" alt="Profile Views"/> </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:00AA66,100:00FF88&height=100&section=footer"/>
+<p align="center"> <a href="https://www.linkedin.com/in/aryan-sharma03-/"> <img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:as2050971@gmail.com"> <img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanshrma03&label=PROFILE+VIEWS&color=00FF88&style=for-the-badge" alt="Profile Views"/> </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:00AA66,100:00FF88&height=100&section=footer"/>
 ⚡ Secure. Learn. Build. Repeat. ⚡
 </div> ```
